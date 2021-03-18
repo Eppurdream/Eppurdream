@@ -4,8 +4,7 @@
 코딩 기록들을 넣는 곳 이예요
 ---------------------------
 
-	printf("Hello World!");
-		printf("Hello World!");
+
 
 
 
