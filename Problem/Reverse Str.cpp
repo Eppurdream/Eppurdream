@@ -47,5 +47,5 @@ int main()
 			cout << Pch[i][j];
 		}
 		cout << endl;
-	}
+	} 
 }
