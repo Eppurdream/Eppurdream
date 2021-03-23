@@ -63,5 +63,5 @@ int main()
 	cout << "성별 : " << gender << ", 나이 : " << age << ", 출생연도 : " << birthday[0] << birthday[1] << birthday[2] << birthday[3] << ", 출생지역 : " << Sarea << ", 주민등록번호 유효성 검사 : " << isTrue;
 
 	//48 ~ 57
-	return 0;
+	return 0; 
 }
