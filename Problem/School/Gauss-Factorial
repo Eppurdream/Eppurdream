@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int Gaus(int i)
+{
+	if (i == 0)
+		return 0;
+	else
+		return i + Gaus(i - 1);
+}
+
+int main()
+{
+	int i;
+	cin >> i;
+	cout << Gaus(i);
+}
