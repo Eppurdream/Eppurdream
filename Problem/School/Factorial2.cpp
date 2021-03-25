@@ -14,6 +14,6 @@ int Fac(int i)
 int main()
 {
 	int i;
-	cin >> i;
+	cin >> i; 
 	cout << Fac(i);
 }
