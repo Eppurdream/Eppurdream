@@ -14,3 +14,10 @@ void Multi(int i1, int i2)
 	}
 	Multi(i1, ++i2);
 }
+
+int main()
+{
+	int i1 = 2;
+	int i2 = 1;
+	Multi(i1, i2);
+}
