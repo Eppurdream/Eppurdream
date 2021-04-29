@@ -69,7 +69,7 @@ long expre(vector<string>& vs, int first, int end)
 						st.push(_int);
 						break;
 					case '-':
-						st.push(-(_int));
+						st.push(-(_int)); 
 						break;
 					case '*':
 						temp = st.top() * _int;
