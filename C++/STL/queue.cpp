@@ -135,7 +135,7 @@ int main()
 	{
 		cout << "front : " << q.front() << "\t";
 		cout << "rear : " << q.rear() << endl;
-		q.pop();
+		q.pop(); 
 	}
 	return 0;
 }
