@@ -25,7 +25,7 @@ int main()
     int size = st.size();
     for (int i = 0; i < size; i++)
     {
-        cout << st.top() << endl;
+        cout << st.top() << endl; 
         st.pop();
     }
     return 0;
