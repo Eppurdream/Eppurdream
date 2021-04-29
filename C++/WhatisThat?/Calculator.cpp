@@ -8,7 +8,7 @@
 #include <vector>
 
 using namespace std;
-
+ 
 long sum(stack<long> st)
 {
 	long allInt = 0;
