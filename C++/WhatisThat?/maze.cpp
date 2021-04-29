@@ -142,7 +142,7 @@ void moveRand(int& random, bool& isTrue, int& y, int& x, stack<int>& stX, stack<
 			stackUp(y, x);
 		}
 		else if (findNum(random, y, x))
-		{
+		{ 
 			isTrue = true;
 		}
 		break;
