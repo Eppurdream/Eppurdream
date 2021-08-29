@@ -9,4 +9,4 @@ void main()
     {
         cout << arr<:i:> << endl;
     }
-%>
+%> 
