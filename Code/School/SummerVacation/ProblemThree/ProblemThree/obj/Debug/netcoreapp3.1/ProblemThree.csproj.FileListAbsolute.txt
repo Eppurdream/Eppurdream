@@ -1,0 +1,13 @@
+C:\Users\ROG\source\repos\ProblemThree\ProblemThree\bin\Debug\netcoreapp3.1\ProblemThree.exe
+C:\Users\ROG\source\repos\ProblemThree\ProblemThree\bin\Debug\netcoreapp3.1\ProblemThree.deps.json
+C:\Users\ROG\source\repos\ProblemThree\ProblemThree\bin\Debug\netcoreapp3.1\ProblemThree.runtimeconfig.json
+C:\Users\ROG\source\repos\ProblemThree\ProblemThree\bin\Debug\netcoreapp3.1\ProblemThree.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\ProblemThree\ProblemThree\bin\Debug\netcoreapp3.1\ProblemThree.dll
+C:\Users\ROG\source\repos\ProblemThree\ProblemThree\bin\Debug\netcoreapp3.1\ProblemThree.pdb
+C:\Users\ROG\source\repos\ProblemThree\ProblemThree\obj\Debug\netcoreapp3.1\ProblemThree.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\ProblemThree\ProblemThree\obj\Debug\netcoreapp3.1\ProblemThree.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\ProblemThree\ProblemThree\obj\Debug\netcoreapp3.1\ProblemThree.AssemblyInfo.cs
+C:\Users\ROG\source\repos\ProblemThree\ProblemThree\obj\Debug\netcoreapp3.1\ProblemThree.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\ProblemThree\ProblemThree\obj\Debug\netcoreapp3.1\ProblemThree.dll
+C:\Users\ROG\source\repos\ProblemThree\ProblemThree\obj\Debug\netcoreapp3.1\ProblemThree.pdb
+C:\Users\ROG\source\repos\ProblemThree\ProblemThree\obj\Debug\netcoreapp3.1\ProblemThree.genruntimeconfig.cache
