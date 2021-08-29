@@ -1,0 +1,13 @@
+C:\Users\ROG\source\repos\ProblemFour\ProblemFour\obj\Debug\netcoreapp3.1\ProblemFour.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\ProblemFour\ProblemFour\obj\Debug\netcoreapp3.1\ProblemFour.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\ProblemFour\ProblemFour\obj\Debug\netcoreapp3.1\ProblemFour.AssemblyInfo.cs
+C:\Users\ROG\source\repos\ProblemFour\ProblemFour\obj\Debug\netcoreapp3.1\ProblemFour.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\ProblemFour\ProblemFour\bin\Debug\netcoreapp3.1\ProblemFour.exe
+C:\Users\ROG\source\repos\ProblemFour\ProblemFour\bin\Debug\netcoreapp3.1\ProblemFour.deps.json
+C:\Users\ROG\source\repos\ProblemFour\ProblemFour\bin\Debug\netcoreapp3.1\ProblemFour.runtimeconfig.json
+C:\Users\ROG\source\repos\ProblemFour\ProblemFour\bin\Debug\netcoreapp3.1\ProblemFour.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\ProblemFour\ProblemFour\bin\Debug\netcoreapp3.1\ProblemFour.dll
+C:\Users\ROG\source\repos\ProblemFour\ProblemFour\bin\Debug\netcoreapp3.1\ProblemFour.pdb
+C:\Users\ROG\source\repos\ProblemFour\ProblemFour\obj\Debug\netcoreapp3.1\ProblemFour.dll
+C:\Users\ROG\source\repos\ProblemFour\ProblemFour\obj\Debug\netcoreapp3.1\ProblemFour.pdb
+C:\Users\ROG\source\repos\ProblemFour\ProblemFour\obj\Debug\netcoreapp3.1\ProblemFour.genruntimeconfig.cache
