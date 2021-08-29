@@ -1,0 +1,13 @@
+C:\Users\ROG\source\repos\ProblemTwo\ProblemTwo\obj\Debug\netcoreapp3.1\ProblemTwo.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\ProblemTwo\ProblemTwo\obj\Debug\netcoreapp3.1\ProblemTwo.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\ProblemTwo\ProblemTwo\obj\Debug\netcoreapp3.1\ProblemTwo.AssemblyInfo.cs
+C:\Users\ROG\source\repos\ProblemTwo\ProblemTwo\obj\Debug\netcoreapp3.1\ProblemTwo.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\ProblemTwo\ProblemTwo\bin\Debug\netcoreapp3.1\ProblemTwo.exe
+C:\Users\ROG\source\repos\ProblemTwo\ProblemTwo\bin\Debug\netcoreapp3.1\ProblemTwo.deps.json
+C:\Users\ROG\source\repos\ProblemTwo\ProblemTwo\bin\Debug\netcoreapp3.1\ProblemTwo.runtimeconfig.json
+C:\Users\ROG\source\repos\ProblemTwo\ProblemTwo\bin\Debug\netcoreapp3.1\ProblemTwo.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\ProblemTwo\ProblemTwo\bin\Debug\netcoreapp3.1\ProblemTwo.dll
+C:\Users\ROG\source\repos\ProblemTwo\ProblemTwo\bin\Debug\netcoreapp3.1\ProblemTwo.pdb
+C:\Users\ROG\source\repos\ProblemTwo\ProblemTwo\obj\Debug\netcoreapp3.1\ProblemTwo.dll
+C:\Users\ROG\source\repos\ProblemTwo\ProblemTwo\obj\Debug\netcoreapp3.1\ProblemTwo.pdb
+C:\Users\ROG\source\repos\ProblemTwo\ProblemTwo\obj\Debug\netcoreapp3.1\ProblemTwo.genruntimeconfig.cache
