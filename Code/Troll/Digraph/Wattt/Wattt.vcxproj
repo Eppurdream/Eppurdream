@@ -27,6 +27,7 @@
     <ProjectGuid>{828a4cdc-8d32-4cdb-a149-3be308fdd99a}</ProjectGuid>
     <RootNamespace>Wattt</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Troll</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
