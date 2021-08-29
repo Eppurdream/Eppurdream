@@ -1,0 +1,13 @@
+C:\Users\ROG\source\repos\ProblemFive\ProblemFive\bin\Debug\netcoreapp3.1\ProblemFive.exe
+C:\Users\ROG\source\repos\ProblemFive\ProblemFive\bin\Debug\netcoreapp3.1\ProblemFive.deps.json
+C:\Users\ROG\source\repos\ProblemFive\ProblemFive\bin\Debug\netcoreapp3.1\ProblemFive.runtimeconfig.json
+C:\Users\ROG\source\repos\ProblemFive\ProblemFive\bin\Debug\netcoreapp3.1\ProblemFive.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\ProblemFive\ProblemFive\bin\Debug\netcoreapp3.1\ProblemFive.dll
+C:\Users\ROG\source\repos\ProblemFive\ProblemFive\bin\Debug\netcoreapp3.1\ProblemFive.pdb
+C:\Users\ROG\source\repos\ProblemFive\ProblemFive\obj\Debug\netcoreapp3.1\ProblemFive.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\ProblemFive\ProblemFive\obj\Debug\netcoreapp3.1\ProblemFive.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\ProblemFive\ProblemFive\obj\Debug\netcoreapp3.1\ProblemFive.AssemblyInfo.cs
+C:\Users\ROG\source\repos\ProblemFive\ProblemFive\obj\Debug\netcoreapp3.1\ProblemFive.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\ProblemFive\ProblemFive\obj\Debug\netcoreapp3.1\ProblemFive.dll
+C:\Users\ROG\source\repos\ProblemFive\ProblemFive\obj\Debug\netcoreapp3.1\ProblemFive.pdb
+C:\Users\ROG\source\repos\ProblemFive\ProblemFive\obj\Debug\netcoreapp3.1\ProblemFive.genruntimeconfig.cache
