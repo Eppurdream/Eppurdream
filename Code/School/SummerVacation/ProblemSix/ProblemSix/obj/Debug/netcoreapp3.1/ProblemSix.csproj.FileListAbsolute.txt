@@ -1,0 +1,13 @@
+C:\Users\ROG\source\repos\ProblemSix\ProblemSix\bin\Debug\netcoreapp3.1\ProblemSix.exe
+C:\Users\ROG\source\repos\ProblemSix\ProblemSix\bin\Debug\netcoreapp3.1\ProblemSix.deps.json
+C:\Users\ROG\source\repos\ProblemSix\ProblemSix\bin\Debug\netcoreapp3.1\ProblemSix.runtimeconfig.json
+C:\Users\ROG\source\repos\ProblemSix\ProblemSix\bin\Debug\netcoreapp3.1\ProblemSix.runtimeconfig.dev.json
+C:\Users\ROG\source\repos\ProblemSix\ProblemSix\bin\Debug\netcoreapp3.1\ProblemSix.dll
+C:\Users\ROG\source\repos\ProblemSix\ProblemSix\bin\Debug\netcoreapp3.1\ProblemSix.pdb
+C:\Users\ROG\source\repos\ProblemSix\ProblemSix\obj\Debug\netcoreapp3.1\ProblemSix.csprojAssemblyReference.cache
+C:\Users\ROG\source\repos\ProblemSix\ProblemSix\obj\Debug\netcoreapp3.1\ProblemSix.AssemblyInfoInputs.cache
+C:\Users\ROG\source\repos\ProblemSix\ProblemSix\obj\Debug\netcoreapp3.1\ProblemSix.AssemblyInfo.cs
+C:\Users\ROG\source\repos\ProblemSix\ProblemSix\obj\Debug\netcoreapp3.1\ProblemSix.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\ProblemSix\ProblemSix\obj\Debug\netcoreapp3.1\ProblemSix.dll
+C:\Users\ROG\source\repos\ProblemSix\ProblemSix\obj\Debug\netcoreapp3.1\ProblemSix.pdb
+C:\Users\ROG\source\repos\ProblemSix\ProblemSix\obj\Debug\netcoreapp3.1\ProblemSix.genruntimeconfig.cache
