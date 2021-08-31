@@ -104,4 +104,46 @@ int main()
 		}
 		cout << endl;
 	}
+
+	cout << endl << "----------------------------------------WindMill----------------------------------------" << endl << endl;
+
+	int length = 5;
+	bool change;
+	char c1 = '*';
+	char c2 = ' ';
+
+	for (int i = 0; i < length * 2 + 1; i++)
+	{
+		change = false;
+
+		if (i == length)
+		{
+			char temp = c1;
+			c1 = c2;
+			c2 = temp;
+			continue;
+		}
+
+		for (int n = 0; n < length * 2 + 2; n++)
+		{
+			if (n == length + 1)
+			{
+				change = !change;
+			}
+			if (n == i + 1 || n == length * 2 + 1 - i)
+			{
+				change = !change;
+			}
+
+			if (change)
+			{
+				cout << c1;
+			}
+			else
+			{
+				cout << c2;
+			}
+		}
+		cout << endl;
+	}
 }
