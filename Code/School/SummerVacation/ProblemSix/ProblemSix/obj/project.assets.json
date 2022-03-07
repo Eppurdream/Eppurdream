@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ROG\\source\\repos\\ProblemSix\\ProblemSix\\ProblemSix.csproj",
+      "projectUniqueName": "C:\\Users\\ROG\\Documents\\GitHub\\KMJ1324\\Code\\School\\SummerVacation\\ProblemSix\\ProblemSix\\ProblemSix.csproj",
       "projectName": "ProblemSix",
-      "projectPath": "C:\\Users\\ROG\\source\\repos\\ProblemSix\\ProblemSix\\ProblemSix.csproj",
+      "projectPath": "C:\\Users\\ROG\\Documents\\GitHub\\KMJ1324\\Code\\School\\SummerVacation\\ProblemSix\\ProblemSix\\ProblemSix.csproj",
       "packagesPath": "C:\\Users\\ROG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ROG\\source\\repos\\ProblemSix\\ProblemSix\\obj\\",
+      "outputPath": "C:\\Users\\ROG\\Documents\\GitHub\\KMJ1324\\Code\\School\\SummerVacation\\ProblemSix\\ProblemSix\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ROG\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

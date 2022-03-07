@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ROG\\source\\repos\\ProblemTwo\\ProblemTwo\\ProblemTwo.csproj": {}
+    "C:\\Users\\ROG\\Documents\\GitHub\\KMJ1324\\Code\\School\\SummerVacation\\ProblemTwo\\ProblemTwo\\ProblemTwo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ROG\\source\\repos\\ProblemTwo\\ProblemTwo\\ProblemTwo.csproj": {
+    "C:\\Users\\ROG\\Documents\\GitHub\\KMJ1324\\Code\\School\\SummerVacation\\ProblemTwo\\ProblemTwo\\ProblemTwo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ROG\\source\\repos\\ProblemTwo\\ProblemTwo\\ProblemTwo.csproj",
+        "projectUniqueName": "C:\\Users\\ROG\\Documents\\GitHub\\KMJ1324\\Code\\School\\SummerVacation\\ProblemTwo\\ProblemTwo\\ProblemTwo.csproj",
         "projectName": "ProblemTwo",
-        "projectPath": "C:\\Users\\ROG\\source\\repos\\ProblemTwo\\ProblemTwo\\ProblemTwo.csproj",
+        "projectPath": "C:\\Users\\ROG\\Documents\\GitHub\\KMJ1324\\Code\\School\\SummerVacation\\ProblemTwo\\ProblemTwo\\ProblemTwo.csproj",
         "packagesPath": "C:\\Users\\ROG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ROG\\source\\repos\\ProblemTwo\\ProblemTwo\\obj\\",
+        "outputPath": "C:\\Users\\ROG\\Documents\\GitHub\\KMJ1324\\Code\\School\\SummerVacation\\ProblemTwo\\ProblemTwo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ROG\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
