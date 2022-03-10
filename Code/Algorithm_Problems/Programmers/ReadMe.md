@@ -13,7 +13,7 @@
     - C++
     - C#
     - JS
-    - JAVA
+    - MYSQL
     .
     .
     .
