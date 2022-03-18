@@ -1,0 +1,4 @@
+﻿  ConWay.cpp
+C:\Users\ROG\source\repos\ConWay\ConWay\ConWay.cpp(54,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ROG\source\repos\ConWay\ConWay\ConWay.cpp(62,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ConWay.vcxproj -> C:\Users\ROG\source\repos\ConWay\Debug\ConWay.exe
