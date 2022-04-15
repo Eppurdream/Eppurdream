@@ -16,4 +16,4 @@
 
 -----
 
-<p align="center"><a href="링크걸_주소"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=black"/></a></p>
+<p align="center"><a href="https://github.com/KMJ1324"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=black"/></a></p>
