@@ -8,7 +8,7 @@
 ```
 
 <style type='text/css'>
-  [class*="box"] { display: flex; width: 20%; height: 50px; }
+  .box { display: flex; width: 20%; height: 50px; }
 </style>
 
 <div class="box">
