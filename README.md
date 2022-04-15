@@ -7,7 +7,7 @@
   - 이외의 것들...
 ```
 
--<p align="center">프로그래밍 생활을 하며 만져보고 경험한 언어들</p>
+-<p align="center">:computer: 프로그래밍 생활을 하며 만져보고 경험한 언어들 :computer:</p>
 -----
 
 <p align="center"><img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=black"/> <img src="https://img.shields.io/badge/PHPMYADMIN-6C78AF?style=flat-square&logo=phpMyAdmin&logoColor=black"/> </p>
