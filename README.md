@@ -7,9 +7,12 @@
   - 이외의 것들...
 ```
 
-<style>
+(setq markdown-xhtml-header-content
+  "<style type='text/css'>
   .box { display: flex; width: 20%; height: 50px; }
-</style>
+</style>")
+
+
 
 <div class="box">
   <center>프로그래밍 생활을 하며 만져보고 경험한 언어들&nbsp</center>
