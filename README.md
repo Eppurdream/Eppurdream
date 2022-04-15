@@ -7,7 +7,7 @@
   - 이외의 것들...
 ```
 
-<style type='text/css'>
+<style>
   .box { display: flex; width: 20%; height: 50px; }
 </style>
 
