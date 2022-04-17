@@ -5,6 +5,18 @@
 - 앞으로 고생하게 될 흔적들 :speech_balloon:
 - 이외의 것들...
 
+
+
+
+
+
+
+
+
+
+
+
+
 -<p align="center">:computer: 프로그래밍 생활을 하며 만져보고 경험한 언어들 :computer:</p>
 -----
 
@@ -24,8 +36,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KMJ1324)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMJ1324&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
