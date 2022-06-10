@@ -5,17 +5,6 @@
 - 앞으로 고생하게 될 흔적들 :speech_balloon:
 - 이외의 것들...
 
- 
-
-
-
- 
-
-
-
-
-
-
 
 -<p align="center">:computer: 프로그래밍 생활을 하며 만져보고 경험한 언어들 :computer:</p>
 -----
@@ -31,7 +20,6 @@
 <p align="center"><a href="https://github.com/KMJ1324"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=black"/></a> <A href="mailto:eppurdream@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a></p> 
 <p align="center"><a href="https://discord.com/')"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=black"/></a></p>
     
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KMJ1324&show_icons=true&theme=radical)
 
