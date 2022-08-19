@@ -8,10 +8,12 @@
 
 -----
 
-<a href="https://github.com/KMJ1324"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=black"/></a> <A href="mailto:eppurdream@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
+<A href="mailto:eppurdream@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 <a href="https://discord.com/')"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=black"/></a>
     
-
+    
+    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKMJ1324&count_bg=%2385E13F&title_bg=%23515151&icon=osmc.svg&icon_color=%23FFFFFF&title=visit+count&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KMJ1324&show_icons=true&theme=radical)
